@@ -40,7 +40,7 @@ const Random = () => {
         <p>Loading...</p>
        ):(
         <>
-        <p id="text">"{quote.quote}"</p>
+        <p id="text" style={{color: bgColors}}>"{quote.quote}"</p>
         <p id="author" style={{color: bgColors}} >- {quote.author}</p>
 
         </>
