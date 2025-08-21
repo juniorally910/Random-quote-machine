@@ -1,5 +1,4 @@
 
-import React from 'react'
 import Random from './random'
 import './App.css'
 
